@@ -11,15 +11,15 @@ categories = ["cryptography"]
 publish = false # We don't want to publish our binaries.
 
 [dependencies]
-zksync_basic_types = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
+zksync_basic_types = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
 zksync_core = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
-vm = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-vlog = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-zksync_contracts = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-zksync_types = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-zksync_utils = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-zksync_state = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
-zksync_web3_decl = { git = "https://github.com/matter-labs/zksync-era.git", rev = "6c91b1a6aec0552f7a5a6a78d6ddac07d43aa4bc" }
+vm = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+vlog = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+zksync_contracts = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+zksync_types = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+zksync_utils = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+zksync_state = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
+zksync_web3_decl = { git = "https://github.com/Gilgamesh-818/zksync-era.git" }
 
 
 anyhow = "1.0"
